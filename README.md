@@ -5,7 +5,7 @@ We are all excited to work on the project. All of us will be looking at various 
     - how Blue state vs. Red state performed in response to COVID-19
 
 -Ram will be looking into the following
-    -correlation between death rate and test rate at various time points and various geographical locations
+    -Relationship between confirmed COVID-19 cases, deaths and recovered cases at various time points and across various geographical locations
 
 -Dong will be looking into the following
     -I going to develop the model for predicting the positive case before the test
