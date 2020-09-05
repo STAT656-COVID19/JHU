@@ -1,11 +1,11 @@
 # This is collaboration page between Ram, Xue and Dong for the STAT656 Project
-We are all excited to work on the project for our Project. All of us will be looking at various components for this COVID-19 data set
+We are all excited to work on the project. All of us will be looking at various components for this COVID-19 data set
 
 -Xue will be looking into the following
     -XYZ
 
 -Ram will be looking into the following
-    -XYZ
+    -correlation between death rate and test rate at various time points and various geographical locations
 
 -Dong will be looking into the following
     -XYZ
