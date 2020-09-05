@@ -2,7 +2,7 @@
 We are all excited to work on the project. All of us will be looking at various components for this COVID-19 data set
 
 -Xue will be looking into the following
-    -XYZ
+    - how Blue state vs. Red state performed in response to COVID-19
 
 -Ram will be looking into the following
     -correlation between death rate and test rate at various time points and various geographical locations
