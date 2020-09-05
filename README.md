@@ -8,7 +8,7 @@ We are all excited to work on the project. All of us will be looking at various 
     -correlation between death rate and test rate at various time points and various geographical locations
 
 -Dong will be looking into the following
-    -XYZ
+    -I going to develop the model for predicting the positive case before the test
 
 
 # COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
